@@ -50,8 +50,8 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: 'Workflow that just works',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    title: 'a pattern or melody... that forms the basis or accompaniment of a musical composition',
+    paragraph: 'Riff is designed to amplify the world\'s culture, taking a small piece and turning it into an orchestral wonder. We enable you to make a recording and publish it for the world to hear. We unlock culture that may never have surfaced otherwise.'
   };
 
   return (
@@ -66,14 +66,14 @@ const FeaturesSplit = ({
 
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
-                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                <div className="text-xxs text-color-primary fw-600 tt-u mb-8" style={{color:"#5658dd"}}>
+                  MEDIA REINVENTED
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Content with a bow on top
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  We take content and present it with the best view we can give you. Movie posters, links to IMDB&trade;, a list of actors - everything is in front of you. All delivered at 1gbps.
                   </p>
               </div>
               <div className={
@@ -92,14 +92,14 @@ const FeaturesSplit = ({
 
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
-                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                <div className="text-xxs text-color-primary fw-600 tt-u mb-8" style={{color:"#5658dd"}}>
+                  Welcome to the feed
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  The view from 30,000 feet
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  Everything interesting going on across Riff.CC - all the time. The feed gives you a view of every release uploaded, every user that joins, and every message that someone leaves.
                   </p>
               </div>
               <div className={
@@ -118,14 +118,14 @@ const FeaturesSplit = ({
 
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
-                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                <div className="text-xxs text-color-primary fw-600 tt-u mb-8" style={{color:"#5658dd"}}>
+                  Front and centre
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Featured Torrents
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  We take the best of Riff.CC and highlight it, right on the front page. That could be you!
                   </p>
               </div>
               <div className={

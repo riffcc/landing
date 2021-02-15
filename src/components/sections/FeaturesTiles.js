@@ -129,10 +129,10 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
-                      src={require('./../../assets/images/feature-tile-icon-04.svg')}
-                      alt="Features tile icon 04"
-                      width={64}
-                      height={64} />
+                      src={require('./../../assets/images/compact-disc-solid.svg')}
+                      alt="Remix CD"
+                      width={128}
+                      height={128} />
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
@@ -173,7 +173,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
-                      src={require('./../../assets/images/chart-bar-solid.svg')}
+                      src={require('./../../assets/images/viruses-solid.svg')}
                       alt="Features tile icon 06"
                       width={128}
                       height={128} />
