@@ -181,7 +181,7 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Fighting diseases
+                    Fight diseases
                     </h4>
                   <p className="m-0 text-sm">
                     We distribute very large datasets that are normally difficult for scientists to access, helping fight global diseases like cancer and COVID-19.
