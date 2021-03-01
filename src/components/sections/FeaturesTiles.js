@@ -44,7 +44,7 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: 'Media for the world',
+    title: 'Free culture for the world',
     paragraph: 'Everything on the site is legally free, either Creative Commons or public domain. Earn bonus points by uploading content or simply by downloading things and leaving your downloader open. The bonus points can then be spent on perks, including eventually physical merchandise from your favourite artists.'
   };
 
