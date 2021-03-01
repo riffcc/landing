@@ -44,8 +44,8 @@ const Testimonial = ({
   );
 
   const sectionHeader = {
-    title: 'What people are saying',
-    paragraph: 'We\'re still young, but here are a few kind words people have had to say about us...'
+    title: 'A word from our founder',
+    paragraph: ''
   };
 
   return (
