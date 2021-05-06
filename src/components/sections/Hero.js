@@ -81,9 +81,10 @@ const Hero = ({
               <div>
                 <Image
                   src={require('./../../assets/images/portal.png')}
-                  alt="Features split 01"
+                  alt="A concept for the front page of riff.cc"
                   width={1280}
                   height={720} />
+                (The future front page of Riff.CC. Not live just yet.)
               </div>
             </div>
           </div>
