@@ -65,7 +65,7 @@ const Hero = ({
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-                Riff.CC lets you download, stream and share music, games, movies and more - legally. Earn points for seeding, and spend them on physical merchandise (not available in Alpha). There are 3000+ things on the site, and even views from the International Space Station! And more on the way all the time. You can even help fight diseases like cancer and COVID19 by helping to provide bandwidth to scientists downloading scientific data.
+                Riff.CC lets you download, stream and share music, games, movies and more - legally. Earn points for seeding, and spend them on physical merchandise (not available in Alpha). There are 3000+ things on the site, and even views from the International Space Station! And more on the way all the time. You can even help fight diseases like cancer and COVID-19 by helping to provide bandwidth to scientists downloading scientific data.
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
