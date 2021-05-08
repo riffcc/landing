@@ -80,7 +80,7 @@ const Hero = ({
               <br /><br />
               <div>
                 <Image
-                  src={require('./../../assets/images/portal.png')}
+                  src={require('./../../assets/images/featured.png')}
                   alt="A concept for the front page of riff.cc"
                   width={1280}
                   height={720} />
