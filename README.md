@@ -1,5 +1,8 @@
-# Riff.CC Home Page
-Based on [cruip's Open React Template](https://github.com/cruip/open-react-template), this is the code for the Riff.CC home page.
+# Archived
+No longer in use.
+
+# Riff.CC Alpha Home Page
+Based on [cruip's Open React Template](https://github.com/cruip/open-react-template), this is the code for the Riff.CC Alpha home page.
 
 ## Table of contents
 
